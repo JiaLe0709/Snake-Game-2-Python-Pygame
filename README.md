@@ -1,4 +1,5 @@
 # Snake-Game-2-Python-Pygame
+- Diffrent UI
 
 You have to import pygame to start this app. you can using this cmd for install pygame.
 
